@@ -59,6 +59,28 @@ This page merely contains some of my favorite links related to go. Huge thank yo
     - If you're looking to play against bots / AI, beware... Especially at beginner ranks, a low *quality* bot simply plays nonsense moves resulting in a pretty vapid expeirence. I recommend: [Oroton Koala 30kyu](https://online-go.com/player/1907021/) and [GnuGo 14kyu](https://online-go.com/player/58441/).
 - Online: [Board from TripleKo](https://board.tripleko.com/) - *No accounts. Requires friends.*
 
+### Equipment
+
+*Personally, I recommend taking a "min-max" approach. Start out with inexpensive equipment, skip the mid-range stuff, and only spend money again if it's something excellent.*
+
+1. If you have a local go club, start there and see if they sell equipment or if members have anything used for sale
+2. ENTRY LEVEL: I find single-convex, ceramic stones on a fabric board to be an incredible value. The stones have weight, the board does not take up much storage space, and the entire set can be had for under $50 USD.
+    - I am a huge fan of the SongYun company of products. You can order [direct](https://sywq.cn/) or [from Amazon](https://www.amazon.com/Songyun-Reversible-Portable-Foldable-Artificial/dp/B08H8C1R6L).
+    - If you want to splurge, I think [the 9x9-reversible-7x7 wooden board from Baduk Club](https://store.baduk.club/products/hardwood-9x9) pairs nicely with a cloth 19x19-reversible-13x13 board. Everything remains portable and you have every standard board size.
+3. MID-RANGE: For me, I would stay away from a board that is bamboo. A bamboo board takes up just as much space as a real board, but feels hollow to play on. Moreover, I would much rather plan on ceramic single-convex stones than plastic double-convex stones. Skip anything in the middle and, if are going to buy something else, save up for something nicer.
+4. PINNACLE:
+    - New boards: [ColoradoWoodWorker on Etsy](https://www.etsy.com/shop/ColoradoWoodWorker?section_id=39050761) has a good reputation
+    - Used stones and boards: [DangerMonkey on Baduk Club](https://store.baduk.club/collections/vintage-gear) does not have consistent inventory, but it's all lovingly refurbished
+  
+Specialty:
+
+- Make your own board, perhaps with a laser, with [these dimensions](https://senseis.xmp.net/?EquipmentDimensions):
+   - Line spacing width-wise 22mm
+   - Line spacing length-wise 23.7mm
+   - Line thickness 1mm
+   - Stone diameter 22.5mm
+- ["Dokodemo" set for visually impaired](https://store.baduk.club/products/dokodemo-travel-set-for-the-visually-impaired)
+
 ## Periphery about the game
 
 ### Audio / video
