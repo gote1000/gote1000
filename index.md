@@ -10,6 +10,7 @@ This page merely contains some of my favorite links related to go. Huge thank yo
 - **Book [Learn Go by Neil Moffat](https://www.learngo.co.uk/Books.php?Book=1)** - *A pragmatic introduction from a Westerner's perspective. I appreciate how the author explicitly downplays "capturing". Each diagram only shows one move (rather than a numbered sequence) which is particularly approachable.*
 - Book: [Go: A Complete Introduction to the Game by Chikun Cho](https://www.biblio.com/9784906574506) -  *Each chapter alternates between a historical/cultural aspect and a key concept of gameplay*
 - Video: [Learn To Play Go! A Guide for Beginners by In Sente](https://www.youtube.com/watch?v=xMshtO8h7RU)
+- Video: [How Stones Die by Neil Pakhutko](https://youtu.be/3IFMiGGPOb0)
 - App: [Beginner's Go by Unbalance Corporation](http://itunes.apple.com/us/app/id381699789?mt=8) - *A vintage app for iOS*
 - App for kids: Legend of Baduk [iOS](https://apps.apple.com/us/app/legend-of-baduk/id6502744705) / [Android](https://play.google.com/store/apps/details?id=kr.or.baduk.lob&hl=en_US&pli=1) - *Modern with a tasteful amount of features provided for free*
 
