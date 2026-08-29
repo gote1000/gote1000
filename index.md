@@ -1,6 +1,6 @@
 *I like go and maybe you do too*
 
-This page merely contains some of my favorite links related to go. Huge thank you to [Xióngwěi Wong's online resources](https://weiqi.soumyak4.in/posts/weiqi-resources/) for the inspiration.
+This page contains some of my favorite links related to go. Huge thank you to [Xióngwěi Wong's online resources](https://weiqi.soumyak4.in/posts/weiqi-resources/) for the inspiration.
 
 ## Learn to play game
 
@@ -38,6 +38,7 @@ This page merely contains some of my favorite links related to go. Huge thank yo
     - [Making Good Shape](https://www.biblio.com/9784906574735)
     - [501 Opening Problems](https://kiseidopublishing.com/master.htm#K71)
     - [Attacking and Defending Weak Groups ](https://biblio.com/4906574882)
+- App: [PlayGo.gg](https://apps.apple.com/us/app/playgo-gg-go-baduk-weiqi/id6783589429)
 
 ### Beyond DDK
 
