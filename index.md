@@ -38,7 +38,7 @@ This page contains some of my favorite links related to go. Huge thank you to [X
     - [Making Good Shape](https://www.biblio.com/9784906574735)
     - [501 Opening Problems](https://kiseidopublishing.com/master.htm#K71)
     - [Attacking and Defending Weak Groups ](https://biblio.com/4906574882)
-- App: [PlayGo.gg](https://apps.apple.com/us/app/playgo-gg-go-baduk-weiqi/id6783589429)
+- App: [PlayGo.gg](https://apps.apple.com/us/app/playgo-gg-go-baduk-weiqi/id6783589429) - *The “Puzzle Run” mode is a lot of fun. There are also tsumego collections sorted by rank and category. Organization isn’t great, but the app is actively being developed.”
 
 ### Beyond DDK
 
